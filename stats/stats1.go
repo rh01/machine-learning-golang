@@ -42,5 +42,4 @@ func main() {
 	fmt.Printf("Mode: %0.2f\n", mode)
 	fmt.Printf("Mode Count: %0.2f\n", count)
 	fmt.Printf("Mean: %0.2f\n", mean)
-
 }

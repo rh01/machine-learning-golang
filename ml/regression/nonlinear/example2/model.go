@@ -138,6 +138,8 @@ func main() {
 	fmt.Printf("\nMAE = %0.2f\n", mAE)
 	// fmt.Printf("\nMSE = %0.2f\n", mSE)
 
+	
+
 }
 
 func predict(tv float64, radio float64, newspaper float64) float64 {

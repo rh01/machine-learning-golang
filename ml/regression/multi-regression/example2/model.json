@@ -1,0 +1,13 @@
+{
+  "intercept": 2.9318025968575205,
+  "coefficients": [
+    {
+      "name": "bmi",
+      "coefficient": 0.04725057761435768
+    },
+    {
+      "name": "ltg",
+      "coefficient": 0.17939317032349503
+    }
+  ]
+}
